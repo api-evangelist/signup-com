@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SignUp.com is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://signup.com/
+SignUp.com provides online sign‑up sheets and coordination solutions for schools, churches, teams, nonprofits, and businesses. Their platform enables users to create, share, and manage sign‑up forms, streamline event planning, and collaborate efficiently across various organizations.
+
+**Areas:** SaaS · Scheduling · Volunteer · Education · Nonprofit
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://signup.com/)
+- [Pricing](https://signup.com/Pricing)
+- [Sign up](https://signup.com)
+- [Support](https://support.signup.com/)
+- [Terms of service](https://signup.com/Terms)
+- [Privacy policy](https://signup.com/Privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/signup-com/](https://apis.io/providers/signup-com/).
